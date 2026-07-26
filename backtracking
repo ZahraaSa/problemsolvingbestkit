@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std ;
+
+// void backtrack() {
+    
+//     if (is_solution()) {
+//         process_solution();
+//         return;
+//     }
+
+    
+//     for (auto choice : available_choices) {
+//         if (is_valid(choice)) {
+            
+         
+//             make_choice(choice); 
+            
+     
+//             backtrack(next_state); 
+            
+  
+//             undo_choice(choice); 
+//         }
+//     }
+// }
